@@ -33,3 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=secelia02&" alt="secelia02" /></p>
 
+![Alt text](https://tenor.com/view/coding-gif-25183725) / !

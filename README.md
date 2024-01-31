@@ -1,3 +1,5 @@
+![image](https://github.com/Secelia02/Secelia02/assets/157771432/79771c78-3e09-4250-bde9-dbe800c79bf0)
+
 <h1 align="center">Hi 👋, I'm Secelia McNair</h1>
 <h3 align="center">A passionate, aspiring full stack developer</h3>
 
@@ -33,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=secelia02&" alt="secelia02" /></p>
 
-![Alt text](https://tenor.com/view/coding-gif-25183725) / !
+

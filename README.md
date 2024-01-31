@@ -1,3 +1,4 @@
+![](https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif)
 <h1 align="center">Hi 👋, I'm Secelia McNair</h1>
 <h3 align="center">A passionate, aspiring full stack developer</h3>
 

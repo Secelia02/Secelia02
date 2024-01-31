@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **secelia@yahoo.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/seceliamcnair/](https://www.linkedin.com/in/seceliamcnair/)
-
 - ⚡ Fun fact **I love to travel and collect coffee mugs from the cities I visit**
 
 <h3 align="left">Connect with me:</h3>
